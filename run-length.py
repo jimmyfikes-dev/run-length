@@ -1,4 +1,4 @@
-runList = 'cccccbbrpppzzzzzza'
+runList = 'ddddddrrrggpllggg'
 l = "abcdefghijklmnopqrstuvwxyz"
 finalList = []
 for x in l:
